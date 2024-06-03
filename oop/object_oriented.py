@@ -31,11 +31,16 @@ class Student:
         
     
     def enrollment(self):
+        
 
         
 
 
 # agnes = Student(first_name ="agnes", last_name = "Wangesha", age =21, country="Kenya", code = 79)
 # faith = Student(first_name ="Faith", last_name = "Mutava", age =21, country="Kenya", code = 27)
-# glory = Student(first_name ="Glory", last_name = "Wachira", age =21, country="Kenya", code = 2)
+# glory = Student(first_name ="Glory", last_name = "Wachira", age =21, country="Kenya", code = 2),
+        
 
+
+
+    
